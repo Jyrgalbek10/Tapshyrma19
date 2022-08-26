@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public enum ZhumanynKundoru {
+public enum ZhumanynKundoru {
+    DUISHOMBU,SHEISHEMBI,SHARSHEMBI,BEISHEMBI,JUMA,ISHEMBI,ZHEKSHEMBI
 }
